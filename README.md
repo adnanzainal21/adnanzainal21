@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi broo, I'm Adnan Zainal  👋
 
-<!--
-**adnanzainal21/adnanzainal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack web developer with expertise in Bootstrap, Reactjs, Laravel, Nodejs, Expressjs, MySQL, and MongoDB. I'm passionate about creating robust and scalable web applications that solve real-world problems.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end**: Bootstrap, Reactjs
+- **Back-end**: Laravel, Nodejs, Expressjs
+- **Database**: MySQL, MongoDB
+- **Other Tools**: Git, GitHub, Visual Studio Code, Heroku, Firebase, notepad +++
+
+## Dream
+
+My Dream:
+
+-  Bersamamu dalam hidupku 
+-  Untukmu Inisial "Y"
+
+
+
+## Contact Me
+
+- [Email](adnanzainal10@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/adnan-zainal-4ab64125b/)
+- [Website](#)
+
+
+Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. Thanks for stopping by!
