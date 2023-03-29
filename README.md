@@ -2,20 +2,12 @@
 
 I'm a fullstack web developer with expertise in Bootstrap, Reactjs, Laravel, Nodejs, Expressjs, MySQL, and MongoDB. I'm passionate about creating robust and scalable web applications that solve real-world problems.
 
-## Skills
-
-- **Front-end**: Bootstrap, Reactjs
-- **Back-end**: Laravel, Nodejs, Expressjs
-- **Database**: MySQL, MongoDB
-- **Other Tools**: Git, GitHub, Visual Studio Code, Heroku, Firebase, notepad +++
-
 ## Dream
 
 My Dream:
 
 -  Bersamamu dalam hidupku 
 -  Untukmu Inisial "Y"
-
 
 
 ## Contact Me
