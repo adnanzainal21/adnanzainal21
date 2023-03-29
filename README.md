@@ -9,4 +9,4 @@ My Dream:
 -  Bersamamu dalam hidupku 
 -  Untukmu Inisial "Y"
 
-#Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. Thanks for stopping by!
+Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. Thanks for stopping by!
