@@ -1,6 +1,6 @@
 # Hi broo, I'm Adnan Zainal  👋
 
-I'm a fullstack web developer with expertise in Bootstrap, Reactjs, Laravel, Nodejs, Expressjs, MySQL, and MongoDB. I'm passionate about creating robust and scalable web applications that solve real-world problems.
+I'm a junior fullstack web developer with expertise in Bootstrap, Reactjs, Laravel, Nodejs, MySQL, and MongoDB. I'm passionate about creating robust and scalable web applications that solve real-world problems.
 
 ## Dream
 
