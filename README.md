@@ -11,6 +11,9 @@ My Dream:
 -  Bersamamu dalam hidupku 
 -  Untukmu Brsamamu Inisial ❤️"Y"❤️
 
+
+Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. Thanks for stopping by!
+
 ###
 
 <div align="center">
@@ -26,4 +29,4 @@ My Dream:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
 </div>
 
-Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. Thanks for stopping by!
+
