@@ -9,7 +9,7 @@ I'm a junior fullstack web developer with expertise in Bootstrap, Reactjs, Larav
 My Dream:
 
 -  Bersamamu dalam hidupku 
--  Untukmu Brsamamu Inisial ❤️"Y"❤️
+-  Untukmu Brsamamu Inisial "Y"❤️
 
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. Thanks for stopping by!
