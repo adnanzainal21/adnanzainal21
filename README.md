@@ -1,4 +1,4 @@
-# Hi broo, I'm Adnan Zainal  👋
+# Hii, I'm Adnan Zainal  👋
 
 <img srech="63.png">
 
