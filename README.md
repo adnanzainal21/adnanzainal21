@@ -2,7 +2,7 @@
 
 <img srech="63.png">
 
-I'm a junior fullstack web developer with expertise in Bootstrap, Reactjs, Laravel, Nodejs, MySQL, and MongoDB. I'm passionate about creating robust and scalable web applications that solve real-world problems.
+I'm a web developer with expertise in Bootstrap, Reactjs, Laravel, Nodejs, MySQL, and MongoDB. I'm passionate about creating robust and scalable web applications that solve real-world problems.
 
 ## Dream
 
