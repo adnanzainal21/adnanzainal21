@@ -5,7 +5,7 @@ I'm a web developer with expertise in Bootstrap, Reactjs, Laravel, Nodejs, MySQL
 
 ##### Education:
 
-1. [SMK Pancasila 8 Sloghimo](https://www.instagram.com/spandela_official/) | RPL (Software engineering) | Wonogiri `2022`
+1. [SMK Pancasila 8 Slogohimo](https://www.instagram.com/spandela_official/) | RPL (Software engineering) | Wonogiri `2022`
 
 
 ## Dream
