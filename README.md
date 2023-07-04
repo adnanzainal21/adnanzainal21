@@ -12,7 +12,7 @@ I'm a web developer with expertise in Bootstrap, Reactjs, Laravel, Nodejs, MySQL
 ## Dream
 My Dream:
 
--  Bersamamu dalam hidupku 
+-  Bersamamu dalam hidupku (Dek Sampean Seng Tak Tresnani)
 -  Untukmu Brsamamu Cintaku Tersayang ❤️
 
 
