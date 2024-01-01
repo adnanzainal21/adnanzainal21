@@ -1,7 +1,7 @@
 # Hii, I'm Adnan Zainal  👋
 ### ꦄꦢ꧀ꦤꦤ꧀ꦗ꦳ꦲꦶꦤꦭꦫꦶꦥ꦳ꦶꦤ꧀
 
-I'm a web developer with expertise in Bootstrap and Reactjs. I'm passionate about creating robust and scalable web applications that solve real-world problems.
+I'm a web developer with expertise in Vue JS and Reactjs. I'm passionate about creating robust and scalable web applications that solve real-world problems.
 
 
 ##### Education:
