@@ -3,6 +3,10 @@
 
 I'm a web developer with expertise in Vue JS and Reactjs. I'm passionate about creating robust and scalable web applications that solve real-world problems.
 
+<br>
+Growing Together | Intan Dira Azzahra
+
+
 
 ##### Education:
 
