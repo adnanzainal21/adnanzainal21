@@ -3,14 +3,8 @@
 
 I'm a web developer with expertise in Vue JS and Reactjs. I'm passionate about creating robust and scalable web applications that solve real-world problems.
 
-<br>
-Growing Together | Intan Dira Azzahra
 
-
-
-##### Education:
-
-1. [SMK Pancasila 8 Slogohimo](https://www.instagram.com/spandela_official/) | RPL (Software engineering) | Wonogiri `2022`
+#### Growing Together | Intan Diara Azzahra
 
 
 ## Dream
