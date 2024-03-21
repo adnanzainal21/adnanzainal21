@@ -4,7 +4,10 @@
 I'm a web developer with expertise in Vue JS and Reactjs. I'm passionate about creating robust and scalable web applications that solve real-world problems.
 
 
-#### Growing Together | Intan Diara Azzahra
+#### Growing Together | 
+- Intan Diara Azzahra
+- Febi Metasari
+- Kalimasada 
 
 
 ## Dream
