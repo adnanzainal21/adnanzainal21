@@ -7,7 +7,6 @@ I'm a web developer with expertise in Vue JS and Reactjs. I'm passionate about c
 #### Growing Together | 
 - Intan Diara Azzahra
 - Febi Metasari
-- Kalimasada 
 
 
 ## Dream
