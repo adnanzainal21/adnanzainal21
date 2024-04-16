@@ -1,17 +1,20 @@
-# Hii, I'm Adnan Zainal  👋
+# Adnan Zainal Arifin | Web 3 Kid
 ### ꦄꦢ꧀ꦤꦤ꧀ꦗ꦳ꦲꦶꦤꦭꦫꦶꦥ꦳ꦶꦤ꧀
 
-I'm a web developer with expertise in Vue JS and Reactjs. I'm passionate about creating robust and scalable web applications that solve real-world problems.
 
+Web3 dev in the making, wanderlust by heart. <br>
+Keeping up with the market. 👀
 
 #### Growing Together | 
 - Intan Diara Azzahra
 - Febi Metasari
-
+ 
+  
 
 ## Dream
 My Dream:
 
+-  Mencari Kekayaan Terpendam Untuk Semuanya
 -  Bersamamu dalam hidupku (Dek Sampean Seng Tak Tresnani)
 -  Untukmu Brsamamu Cintaku Tersayang ❤️
 
