@@ -1,13 +1,14 @@
 # Adnan Zainal Arifin | Web 3 Kid
-### ꦄꦢ꧀ꦤꦤ꧀ꦗ꦳ꦲꦶꦤꦭꦫꦶꦥ꦳ꦶꦤ꧀
+### ꦫꦢꦺꦤ꧀ꦄꦢ꧀ꦤꦤ꧀ꦲꦶꦤꦭ꧀ꦄꦫꦶꦥ꦳ꦶꦤ꧀
 
 
 Web3 dev in the making, wanderlust by heart. <br>
 Keeping up with the market. 👀
 
-#### Growing Together | 
-- Intan Diara Azzahra
-- Febi Metasari
+#### Growing Together 
+- Denada Azzahra | Financial Management Accounting
+- Febi Metasari | Dev Web 3 Patner
+- Andrew Susanto | Business Motivation Mentor
  
   
 
@@ -15,6 +16,7 @@ Keeping up with the market. 👀
 My Dream:
 
 -  Mencari Kekayaan Terpendam Untuk Semuanya
+-  Mengembangkan diri senghingga tiada tara
 -  Bersamamu dalam hidupku (Dek Sampean Seng Tak Tresnani)
 -  Untukmu Brsamamu Cintaku Tersayang ❤️
 
