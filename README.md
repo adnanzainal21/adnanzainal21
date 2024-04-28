@@ -6,9 +6,12 @@ Web3 dev in the making, wanderlust by heart. <br>
 Keeping up with the market. 👀
 
 #### Growing Together 
-- Denada Azzahra | Financial Management Accounting
-- Febi Metasari | Dev Web 3 Patner
 - Andrew Susanto | Business Motivation Mentor
+- Prof. Kalimasada | Economi Business 
+- Febi Metasari | Dev Web 3 Mentor
+- Denada Azzahra | Financial Management Accounting
+
+
  
   
 
