@@ -8,10 +8,7 @@ Keeping up with the market. 👀
 #### Growing Together 
 - Andrew Susanto | Business Motivation Mentor
 - Prof. Kalimasada | Economi Business 
-- Febi Metasari | Dev Web 3 Mentor
-- Denada Azzahra | Financial Management Accounting
-
-
+- W Grups
  
   
 
