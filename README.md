@@ -1,4 +1,4 @@
-# Adnan Zainal Arifin | Web3 Developer & Web Developer
+# Adnan Zainal Arifin | Web3 Developer 
 
 ### ꦫꦢꦺꦤ꧀ꦄꦢ꧀ꦤꦤ꧀ꦲꦶꦤꦭ꧀ꦄꦫꦶꦥ꦳ꦶꦤ꧀
 
