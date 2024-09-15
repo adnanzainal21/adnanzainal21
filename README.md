@@ -1,6 +1,7 @@
 # Adnan Zainal Arifin | Web3 Developer 
 
 ### ꦫꦢꦺꦤ꧀ꦄꦢ꧀ꦤꦤ꧀ꦲꦶꦤꦭ꧀ꦄꦫꦶꦥ꦳ꦶꦤ꧀
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 Web3 dev in the making, wanderlust by heart. <br>
 Keeping up with the market 👀
