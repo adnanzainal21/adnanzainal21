@@ -5,7 +5,8 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
-Web3 dev in the making, wanderlust by heart. <br>
+Web3 dev IDN | wanderlust by heart. <br>
+Ngoding Web3, explore AI, dan stalk crypto market.
 Keeping up with the market 👀
 
 ## Professional Background
