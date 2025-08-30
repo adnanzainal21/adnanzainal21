@@ -1,4 +1,4 @@
-# Arifin | Web3 Developer 
+# Zainal Arifin | Web3 Developer 
 
 ### ꦫꦢꦺꦤ꧀ꦄꦢ꧀ꦤꦤ꧀ꦲꦶꦤꦭ꧀ꦄꦫꦶꦥ꦳ꦶꦤ꧀
 <a href="https://github.com/ryo-ma/github-profile-trophy">
