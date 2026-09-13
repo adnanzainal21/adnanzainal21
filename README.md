@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=GRUVBOX&center=true&vcenter=true&width=435&lines=Web3+Developer;Exploring+AI;Stalking+Crypto+Market" alt="Typing SVG" />
 </p>
 
-[![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanzainal21&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://readme-streak-stats.herokuapp.com/?user=adnanzainal21&theme=onedark)](https://git.io/streak-stats)
 
 <br />
 
